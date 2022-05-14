@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href=" ">
-    < img align="center" src="https://github-readme-stats.vercel.app/api?username=syiming&hide=issues,prs&show_icons=true&theme=radical" />
-  </a >
+[![Syiming's GitHub stats](https://github-readme-stats.vercel.app/api?username=syiming&count_private=true&hide=issues,prs&show_icons=true&theme=radical&include_all_commits=true)](https://syiming.github.io)
 
 <!--
 **syiming/syiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
